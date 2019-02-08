@@ -10,6 +10,22 @@ namespace C0724144_WEEK05
     {
         static void Main(string[] args)
         {
+
         }
+
     }
+
+    class Node
+    {
+        public Node() { }
+        Node floor;
+        Node elevatorUp;
+        string FloorNumber;
+    }
+
+    class Evelator
+    {
+
+    }
+
 }
